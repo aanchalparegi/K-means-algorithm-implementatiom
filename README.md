@@ -32,4 +32,8 @@ This repository contains Python code implementing the K-Means clustering algorit
 
 **Note:** This code is intended for educational purposes and experimentation with K-means clustering and image compression. Feel free to modify and extend it for your own projects or learning purposes.
 
-For any questions or issues, please contact [Your Name/Email].
+ For detailed information about the implementation and its applications, please refer to the accompanying Medium blog:
+
+[Medium Blog: K-Means Clustering: Unveiling Data Patterns and Image Compression](https://medium.com/@paregiaanchal/k-means-clustering-unveiling-data-patterns-and-image-compression-2d979e724ab3)
+
+---
